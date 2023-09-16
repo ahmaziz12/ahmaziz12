@@ -6,9 +6,7 @@ I am an energetic Ruby developer who is able to collaborate with talented IT pro
 
 -Experience in Agile methodologies including planning and sprints to complete software application projects using AGILE
 
-=============================
 Have experience with:
-============================= 
 Databases: PostgreSQL, MySQL and SQLite.
 Version control system: Git, Github, AWS CodeCommit
 Searching: ElasticSearch, searchkick and extensive searching with Ransack
