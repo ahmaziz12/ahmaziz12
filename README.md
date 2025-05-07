@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I have a degree in Computer Science and working as a software engineer (full-stack web developer) with a special interest in Ruby on Rails. I have also working experience in US based call centre which enhanced my English skills.
-
-I am an energetic Ruby developer who is able to collaborate with talented IT professionals in creating websites and web applications. Have experience in analyzing customer needs and working with teams. With the capacity to adapt and learn fast and knowledge of how to apply all stages of web development. I predominantly work with Ruby and Ruby on Rails.
+I have a degree in Computer Science and working as a Senior Software Engineer (full-stack web developer) with a special interest in Ruby on Rails. I am an energetic Ruby developer who is able to collaborate with talented IT professionals in creating websites and web applications. Have experience in analyzing customer needs and working with teams. With the capacity to adapt and learn fast and knowledge of how to apply all stages of web development. I predominantly work with Ruby and Ruby on Rails.
 
 -Experience in Agile methodologies including planning and sprints to complete software application projects using AGILE
 
